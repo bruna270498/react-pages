@@ -1,4 +1,4 @@
-// import '../style/componentes/barraNav.sass'
+import '../style/componentes/barraNav.sass'
 
 export default function barraNav() {
     return(
