@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-pages/static/js/main.e3645506.js",
+    "main.css": "/react-pages/static/css/main.b3c48bfc.css",
+    "main.js": "/react-pages/static/js/main.04d50614.js",
     "static/js/787.c2651732.chunk.js": "/react-pages/static/js/787.c2651732.chunk.js",
-    "static/media/logo.svg": "/react-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tryunfo.png": "/react-pages/static/media/tryunfo.e72d1f9b6b946ba814c6.png",
+    "static/media/tryTunes.png": "/react-pages/static/media/tryTunes.094e4142fb5589e9fe1a.png",
+    "static/media/bruna.jpeg": "/react-pages/static/media/bruna.8e7c1c078a45b15cb374.jpeg",
+    "static/media/test.png": "/react-pages/static/media/test.48b288df2365d1d0df2c.png",
+    "static/media/tryWallet.png": "/react-pages/static/media/tryWallet.64451623768fa783fd48.png",
     "index.html": "/react-pages/index.html",
-    "main.073c9b0a.css.map": "/react-pages/static/css/main.073c9b0a.css.map",
-    "main.e3645506.js.map": "/react-pages/static/js/main.e3645506.js.map",
+    "main.b3c48bfc.css.map": "/react-pages/static/css/main.b3c48bfc.css.map",
+    "main.04d50614.js.map": "/react-pages/static/js/main.04d50614.js.map",
     "787.c2651732.chunk.js.map": "/react-pages/static/js/787.c2651732.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e3645506.js"
+    "static/css/main.b3c48bfc.css",
+    "static/js/main.04d50614.js"
   ]
 }
