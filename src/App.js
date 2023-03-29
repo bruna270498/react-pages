@@ -1,14 +1,13 @@
 import logo from './logo.svg';
+import BarraNav from './componentes/barraNav';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <BarraNav />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Portifolio d
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
