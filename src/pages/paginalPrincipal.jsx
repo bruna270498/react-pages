@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import BarraNav from '../componentes/barraNav';
 import Conhecimento from '../componentes/conteinerConhecimento';
 import Projetos from '../componentes/conteinerProjetos';

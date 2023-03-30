@@ -37,9 +37,6 @@ $gradient: #ff3a5e
 .links:hover
       border-bottom: 2px #ff3a5e solid
       box-shadow: 2px 2px #ff3a5e
-    
-
-    
 
 .navLink
     display: flex
@@ -47,7 +44,74 @@ $gradient: #ff3a5e
     align-items: center
     margin-left: 36%
 
-@media screen and (max-width:1050) 
+@media (max-width: 1189px) 
     .nome
-        font-size: 2px
+        font-size: 30px
+    .links
+        margin-right: 40px
+        font-size: 17px
+    .nav
+        height: 60px
+        
+@media screen and (max-width: 862px) 
+    .nome
+        font-size: 25px
+    .links
+        font-size: 15px
+    .nav
+        height: 50px
+    
+       
+
+@media screen and (max-width: 770px)
+    .nome
+        font-size: 23px
+    .links
+        margin-right: 25px
+    .nav
+        height: 45px
+.btn-nav
+        display: none
+
+@media screen and (max-width: 522px)
+    .links
+        display: none
+    .btn-nav
+        display: block
+        font-size: 20px
+        background-color: $body-color
+        border: 0
+        color: $gradient
+    .div-btn-nav
+        display: flex
+        flex-direction: column
+        margin-top: 3px
+        
+    .nome
+        font-size: 23px
+    .nav
+        height: 30px
+        justify-content: space-between
+    li
+         list-style: none
+    .list-navL
+        margin-top: 1%
+        width: 113px
+        background-color: rgba(255,58,94, 0.5)
+        text-align: center
+    .links-nav:hover
+        color: #000000
+    .links-nav
+        text-decoration: none
+        font-family: $font-default
+        color: $color-default
+
+@media screen and (max-width: 391px)
+    .nome
+        font-size: 18px
+    .links-nav
+        font-size: 10px
+    .list-navL
+        width: 90px
+       
         
