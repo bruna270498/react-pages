@@ -11,7 +11,7 @@ $border-footer: 1px rgba(216,216,216, 0.5) solid
     font-size: 20px
     margin-top: 7px
     font-family: $font-default
-    margin-left: 35%
+    // margin-left: 35%
     
 
 .footerDiv
@@ -20,6 +20,12 @@ $border-footer: 1px rgba(216,216,216, 0.5) solid
     border-top: $border-footer
     display: flex
     flex-direction: flex
+    text-align: center
+    justify-content: center
+    align-items: center
+    align-content: center
+    justify-items: center
+    
 
 .nomeFoot
     font-family: $font-default
@@ -27,4 +33,23 @@ $border-footer: 1px rgba(216,216,216, 0.5) solid
     font-size: 20px
     margin-top: 7px
     margin-left: 5px
-    
+
+@media screen and ( max-width: 1001px )
+    .nomeFoot
+        font-size: 15px
+        margin-top: 10px
+    .footerDiv
+        height: 35px
+    .footer
+        font-size: 15px
+        margin-top: 10px
+
+@media screen and ( max-width: 483px)
+    .nomeFoot
+        font-size: 10px
+        margin-top: 10px
+    .footerDiv
+        height: 20px
+    .footer
+        font-size: 10px
+        margin-top: 10px

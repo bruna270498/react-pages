@@ -12,7 +12,7 @@ export default function Principal(){
             <SobreMim />
             <Conhecimento />
             <Projetos />
-            {/* <Footer /> */}
+            <Footer />
         </div>
     )
 }
