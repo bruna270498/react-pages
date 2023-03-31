@@ -11,8 +11,8 @@ export default function Principal(){
             <BarraNav />
             <SobreMim />
             <Conhecimento />
-            <Projetos />
-            <Footer />
+            {/* <Projetos />
+            <Footer /> */}
         </div>
     )
 }
