@@ -18,7 +18,7 @@ export default function SobreMim() {
                <br/>
 
                Me interessei pela programação quando estava estudando para um concurso público, 
-               nas aulas achei fascinante de como um código  se tornava uma pagina web e percebi 
+               nas aulas achei fascinante como um código  se tornava uma pagina web e percebi 
                que programar não é nada monótono mas sim desafiador.
                <br/>
                <br/>
