@@ -9,7 +9,7 @@ export default function SobreMim() {
         <section clasName="sobreMim">
             <h1 className='titulo'>Sobre Mim</h1>
             <h3 className='nome'>Bruna Almeida Soares</h3>
-            <h3 className='texto'>Desenvolvedora Front-end</h3>
+            <h3 className='texto'>Desenvolvedora Full Stack</h3>
             <p className='texto'>
                Olá, me chamo Bruna tenho 24 anos, sou natural de Rio grande da Serra no interior de São Paulo, 
                atualmente moro em Santo Antônio de Jesus - BA onde posso dizer com toda certeza 

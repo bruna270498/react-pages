@@ -1,6 +1,7 @@
 import React from "react";
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import { BsWhatsapp } from "react-icons/bs";
+import { SiGmail } from "react-icons/si";
 import '../style/componentes/contato.sass'
 
 export default function Contato() {
@@ -15,6 +16,10 @@ export default function Contato() {
             <a className="contato" href='https://github.com/bruna270498'>
                 <p className="contato1" ><AiFillGithub /></p>
             </a>
+            <a className="contato" href="mailto:brunaalmeida075@gmail.com" >
+                <p className="contato1"><SiGmail /></p>
+            </a>
+
         </section>
     )
 }
