@@ -16,16 +16,16 @@ export default function SobreMim() {
                que é um bom lugar para viver.
                <br/>
                <br/>
-
-               Me interessei pela programação quando estava estudando para um concurso público, 
-               nas aulas achei fascinante como um código  se tornava uma pagina web e percebi 
-               que programar não é nada monótono mas sim desafiador.
+               Minha paixão pela programação surgiu enquanto estudava para um concurso público e fiquei 
+               fascinada em como um simples código se transformava em uma página web. Percebi que a programação
+               é muito mais do que uma atividade monótona, é um desafio constante.
                <br/>
                <br/>
 
-               E assim iniciei uma nova etapa da minha vida onde me lancei na programação. 
-               Atualmente estudo desenvolvimento web na trybe,onde já me formei em desenvolvedor 
-               Front-end, mas além das hard skills, estou colocando em prática as soft skills e metodologias ágeis.
+               A partir disso, decidi me lançar em uma nova etapa da minha vida e estudar programação. 
+               Atualmente, estou na Trybe estudando Desenvolvimento Web, já me formei como desenvolvedora 
+               Front-end e, além das habilidades técnicas, estou praticando habilidades interpessoais e 
+               metodologias ágeis.
             </p>
            <Contato />
         </section>
